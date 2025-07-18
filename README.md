@@ -12,6 +12,6 @@ Soy un profesional apasionado por el análisis de datos, con experiencia previa 
 - Python (en curso)
 
  Contacto:
-- [LinkedIn](www.linkedin.com/in/adrianlurgo)
+- [LinkedIn](https://www.linkedin.com/in/adrianlurgo/)
 - aglurgo@gmail.com
 
